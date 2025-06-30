@@ -58,4 +58,4 @@ This project is licensed under the MIT License.
 🔗 Dive : https://docs.google.com/document/d/1e0_MVDQFi1g5cVspcr2pjlpqlPi1EPU7/edit?usp=drivesdk&ouid=105426524109182393798&rtpof=true&sd=true
 
 
-🌐 Live Demo : https://youtu.be/uNFZ47NE328?si=4X10zMkXyf8rciJx
+🌐 Live Demo : https://youtu.be/84f2wptmpck?si=nXR22AQpWwPOYqFc
